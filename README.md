@@ -1,4 +1,3 @@
-Markdown
 # 🏫 AWS-Hosted Virtual Classroom & Learning Platform
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
